@@ -1,0 +1,1 @@
+# prepar3d-settings
